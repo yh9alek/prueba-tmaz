@@ -1,3 +1,7 @@
 <?php
 
-echo "Hola mundossad";
+echo "Hola mundasdossad";
+
+trait MyTrait {
+    
+}
