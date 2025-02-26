@@ -5,4 +5,8 @@ class A {
         static::foo();
     }
 
+    static function foo() {
+        
+    }
+
 }
